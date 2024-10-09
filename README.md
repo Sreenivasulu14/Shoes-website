@@ -1,2 +1,2 @@
 # Shoes-website
-creating shoes website using Html css java script
+create shoes website using Html css java script
